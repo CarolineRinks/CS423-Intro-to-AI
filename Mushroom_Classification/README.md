@@ -8,7 +8,7 @@ Instructions
 To run this program, navigate to the directory where main.py is stored and type 
 the following command into a terminal:
 
-    python3 svm_search.py|svm_best.py|nn_search.py|nn_best.py
+    python svm_search.py|svm_best.py|nn_search.py|nn_best.py
 
 -----------
 Description
