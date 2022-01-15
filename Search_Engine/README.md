@@ -11,6 +11,7 @@ the following command into a terminal:
 	python main.py -root ROOT -mode C|I [-query QUERY] [-verbose T|F]
 
 Example of a valid command:
+	
 	python main.py -root https://eecs.utk.edu -mode C -query lab -verbose T
 
 -----------
