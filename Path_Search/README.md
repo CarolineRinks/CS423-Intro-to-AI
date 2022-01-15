@@ -1,4 +1,5 @@
 Author: Caroline Rinks
+
 Project 2 (Path Search)
 
 ------------
