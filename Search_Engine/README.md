@@ -6,7 +6,7 @@ Project 4 (Search Engine)
 Instructions
 ------------
 To run this program, navigate to the directory where main.py is stored and type 
-the following command into a terminal:
+the following command into a terminal: 
 	python main.py -root ROOT -mode C|I [-query QUERY] [-verbose T|F]
 
 Example of a valid command:
