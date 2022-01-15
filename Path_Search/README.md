@@ -1,5 +1,5 @@
 Author: Caroline Rinks
-Name: Project 2 (Search)
+Project 2 (Path Search)
 
 ------------
 Instructions
