@@ -28,4 +28,5 @@ storing and calculating webpage relevance using TF-IDF indexing and cosine simil
 .pickle files
 -------------
 The files docs.pickle and links.pickle were generated with the following command:
+
 	python main.py -root https://eecs.utk.edu -mode C -query undergraduate -verbose F
