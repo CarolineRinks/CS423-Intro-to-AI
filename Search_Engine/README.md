@@ -1,5 +1,6 @@
 Author: Caroline Rinks
-Name: Project 4 (Search Engine)
+
+Project 4 (Search Engine)
 
 ------------
 Instructions
@@ -14,12 +15,12 @@ Instructions
 -----------
 Description
 -----------
-	This program implements a basic search engine with an embedded web crawler 
+	This program implements a basic search engine for .utk websites with an embedded web crawler 
 	alongside a ranking and retrieval system. This is accomplished with 3 classes: a WebCrawler 
 	class that scrapes and stores data from UTK-affiliated websites, a SearchInterface class 
 	that creates either an interactive or command-line interface for issuing search queries, and 
-	a SearchEngine class that instantiates the WebCrawler and SearchInterface classes while also 
-	storing and calculating relevance using TF-IDF indexing and cosine similarity scoring.
+	a SearchEngine class which instantiates the WebCrawler and SearchInterface classes while also 
+	storing and calculating webpage relevance using TF-IDF indexing and cosine similarity scoring.
 
 -------------
 .pickle files
