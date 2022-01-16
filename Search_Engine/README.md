@@ -27,7 +27,7 @@ storing and calculating webpage relevance using TF-IDF indexing and cosine simil
 -------------
 .pickle files
 -------------
-The file docs.pickle contains the scraped text from each webpage and links.pickle contains the
+The generated file docs.pickle contains the scraped text from each webpage and links.pickle contains the
 links found on each webpage. The docs.pickle and links.pickle files in this folder were generated 
 with the following command:
 
