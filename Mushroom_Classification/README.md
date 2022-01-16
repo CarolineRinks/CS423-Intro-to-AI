@@ -22,13 +22,13 @@ Usage:
 --------------------
 Files in this folder
 --------------------
-nn_search.py: explores various neural network models
+**nn_search.py**: explores various neural network models
 
-nn_best.py: contains a static implementation of the best performing model found in nn_search.py
+**nn_best.py**: contains a static implementation of the best performing model found in nn_search.py
 
-svm_search.py: explores various support vector machine models
+**svm_search.py**: explores various support vector machine models
 
-svm_best.py contains a static implementation of the best performing model found in svm_search.py
+**svm_best.py**: contains a static implementation of the best performing model found in svm_search.py
 
-mushrooms.csv: contains the mushroom dataset.
+**mushrooms.csv**: contains the mushroom dataset.
 
