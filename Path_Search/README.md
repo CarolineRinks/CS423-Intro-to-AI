@@ -2,9 +2,9 @@ Author: Caroline Rinks
 
 Project 2 (Path Search)
 
-------------
-Instructions
-------------
+------
+Usage:
+------
 To run this program, navigate to the directory where main.py is stored and type 
 the following command into a terminal:
     
