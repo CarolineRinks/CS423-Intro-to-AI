@@ -1,6 +1,5 @@
-Author: Caroline Rinks
-
-Project 3 (Mushroom Classification - Neural Networks and SVM's)
+# Mushroom Classification
+CS423: Intro to AI
 
 -----------
 Description
