@@ -5,7 +5,7 @@ CS420: Intro to AI
 -----------
 Description
 -----------
-A basic search engine that recommends .utk websites when given a user-supplied query. Implements
+This is a basic search engine that recommends .utk websites when given a user-supplied query. Implements
 a web crawler, scraper, and ranking and retrieval system. This is accomplished with 3 classes: a WebCrawler 
 class that scrapes and stores data from UTK-affiliated websites, a SearchInterface class 
 that creates either an interactive or command-line interface for issuing search queries, and 
