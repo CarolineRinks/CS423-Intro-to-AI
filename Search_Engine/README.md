@@ -1,6 +1,6 @@
 Author: Caroline Rinks
 
-Project 4 (Search Engine)
+UTK Search Engine
 
 -----------
 Description
