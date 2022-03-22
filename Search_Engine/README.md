@@ -1,6 +1,6 @@
 Author: Caroline Rinks
 
-UTK Search Engine
+**UTK Search Engine**
 
 -----------
 Description
